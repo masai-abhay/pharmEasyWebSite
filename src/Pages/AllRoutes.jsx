@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import Content from "./Content";
+import Content from "./Content.jsx";
 import HealthCare from "./HealthCare";
 import HealthFood from "./HealthFood";
 import ProductDetails from "./ProductDetails";

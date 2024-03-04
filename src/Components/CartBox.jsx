@@ -5,7 +5,8 @@ import React from "react";
 
 function CartBox({ title, price, img, id, GetData }) {
   async function PostData() {
-    // console.log(id);
+     console.log(id);
+    
     try {
       let res = await fetch(
         `https://medic-care-database.glitch.me/cart/${id}`,

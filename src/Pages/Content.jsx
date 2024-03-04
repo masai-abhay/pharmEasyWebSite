@@ -426,6 +426,8 @@ export default function Content() {
           </div>
         </div>
       </div>
+
+      
       {/* shop by Category */}
       <div>
         <h1 className={content.Heading}>Shop by Categories</h1>
@@ -491,7 +493,7 @@ export default function Content() {
         <div className={content.SubPurpleBoxMid}>
           <p>
             Save 5% on allopathic medicines, 50% on lab tests & get FREE
-            delivery with PLUS membership Know more >
+            delivery with PLUS membership Know more 
           </p>
           <Button colorScheme="orange">Explore Now</Button>
         </div>
@@ -554,70 +556,8 @@ export default function Content() {
           marginBottom: "30px",
         }}>
         <div>
-          {" "}
-          <p>
-            <b>Top-Selling Healthcare Products:</b> Accu-Chek Active - 100
-            Strips | Supradyn Multivitamin Tablets | DR Morepen BG 03 - 50
-            Strips | Dettol Antiseptic Liquid | Ensure Diabetes Care Vanilla
-            Sugar Free Jar | Dettol Instant Hand Sanitizer | Everherb Shilajit |
-            Softovac SF Powder | Pediasure Premium Chocolate Refill
-          </p>
-          <p>
-            <b>Top-Selling Medicines:</b> Dolovera Gel | Neurobion Forte |
-            Chymoral Forte | Crocin Advance | Soframycin | Dexorange |
-            Becadexamin | Folvite | Livogen | Becosules | Fourderm | Nurokind
-            Plus | Burnol | Crocin 650 | Mintop 5 | Thrombophob | Evion 600
-          </p>
-          <p>
-            <b>COVID-19 Preventatives:</b> N95 Masks | Hand Sanitizers | Hand
-            Gloves, Disinfectants, Thermometers & more!
-          </p>
-        </div>
-        <div style={{ textAlign: "left", marginTop: "30px" }}>
-          <h1>
-            <b>Your One-Stop Online Pharmacy - PharmEasy</b>
-          </h1>
-          <p>
-            <b>We've got India Covered!</b>
-            <p>
-              We now deliver in 1000+ cities and towns across 22000+ pin codes.
-              We thereby cover every nook and corner of the country! The major
-              cities in which we deliver include Mumbai, Kolkata, Delhi,
-              Bengaluru, Ahmedabad, Hyderabad, Chennai, Thane, Howrah, Pune,
-              Gurgaon, Navi Mumbai, Jaipur, Noida, Lucknow, Ghaziabad &
-              Vadodara.
-            </p>
-          </p>
-          <p>
-            <b>
-              How Are We Making Lives Simpler With Our Online Medical Store?
-            </b>
-            <p>
-              Our doorstep delivery service is available in PAN-India across top
-              cities like Bangalore, Delhi, Mumbai, Kolkata, Hyderabad, Gurgaon,
-              Noida, Pune, etc. Our online medical store also allows you to
-              choose from 1 lakh+ products including OTC products and medical
-              equipment. PharmEasy is a one-stop online medical platform where
-              you can also book diagnostic tests including blood tests,
-              full-body checkups, and other preventive health check-ups at an
-              affordable cost, right from the comfort of your home. We have
-              partnered with trusted & certified labs that arrange for a sample
-              pick-up from the convenience of your home. They also provide you
-              with timely reports.
-            </p>
-          </p>
-          <p>
-            <b>We've got India Covered!</b>
-            <p>
-              We now deliver in 1000+ cities and towns across 22000+ pin codes.
-              We thereby cover every nook and corner of the country! The major
-              cities in which we deliver include Mumbai, Kolkata, Delhi,
-              Bengaluru, Ahmedabad, Hyderabad, Chennai, Thane, Howrah, Pune,
-              Gurgaon, Navi Mumbai, Jaipur, Noida, Lucknow, Ghaziabad &
-              Vadodara.
-            </p>
-          </p>
-          <b>We Believe in ‘Simplifying Healthcare, Impacting Lives!’</b>
+          
+         
         </div>
       </div>
     </div>
